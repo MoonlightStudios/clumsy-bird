@@ -8,6 +8,8 @@ A MelonJS made "Flappy Bird" clone.
 
 Play online at http://ellisonleao.github.io/clumsy-bird/
 
+Originally Created by Ellison Leao, ported by Moonlight Games to the Android Platform.
+
 ## Running Locally
 
 Just type on your shell:
